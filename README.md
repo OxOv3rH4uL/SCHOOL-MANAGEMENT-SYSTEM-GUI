@@ -9,8 +9,7 @@ INSTALLATION
 
 2)DOWNLOAD THE FONTS
 
-3) GO TO COMMAND PROMPT OF THAT FOLDER AND TYPE
-   pip install -r requirements.txt
+3)GO TO COMMAND PROMPT OF THAT FOLDER AND TYPE  'pip install -r requirements.txt' (without strings)
    
    IF YOU DONT HAVE PIP , FOLLOW THESE STEPS:
    1) GO TO CONTROL PANEL 
