@@ -30,8 +30,15 @@ RUNNING :
 5) If you want to search any student , click the button 'Search' , a window pops up , enter the details of the student to be searched (any one detail is enough)
 6) If you want to update any student , click the student that you want to update, which is been shown on the treeview and then click the 'Update' button
 7) Similarly if you want to delete any student , click the student that you want to delete and then click the 'Delete' button
-8) Its same for all "Fees , Library and Students' , except for Teacher
-9) Working of Teacher table is a bit different
+8) Export button , exports the present datas in a CSV File
+9) Its same for all "Fees , Library and Students' , except for Teacher
+10) Working of Teacher table is a bit different
 If you are not clear , we will put an video on working of this GUI on youtube!
+
+TEAM MEMBERS:
+R.ASHOK
+M.MOHAMMED SHAFI
+J.ROSHAN
+D.PAVANKALYAN
 
 CONTACT US: oterinaree@gmail.com , roshan10.rj@gmail.com
