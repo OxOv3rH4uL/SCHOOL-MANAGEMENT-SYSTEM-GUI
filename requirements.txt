@@ -1,0 +1,4 @@
+Pillow
+mysql-connector-python
+pandas
+numpy==1.19.3
