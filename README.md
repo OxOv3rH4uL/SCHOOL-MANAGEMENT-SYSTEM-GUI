@@ -37,10 +37,4 @@ RUNNING :
 11) Working of Teacher table is a bit different
 If you are not clear , we will put an video on working of this GUI on youtube!
 
-TEAM MEMBERS:
-R.ASHOK
-M.MOHAMMED SHAFI
-J.ROSHAN
-D.PAVANKALYAN
-
-CONTACT US: oterinaree@gmail.com , roshan10.rj@gmail.com
+Contact: oterinaree@gmail.com
